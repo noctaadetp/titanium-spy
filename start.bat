@@ -12,10 +12,10 @@ color 0a
 
 title Titanium - Installation
 color 0a
-pip install -r ./src/requirements.txt
+pip install -r requirements.txt
 cls
 
 title Titanium - Builder
 color 0a
-python ./src/builder.py
+python builder.py
 cls
